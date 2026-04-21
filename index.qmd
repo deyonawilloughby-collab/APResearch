@@ -1,5 +1,5 @@
 ---
-title: art
+title: Research Article
 authors:
   - name: De'Yona Willoughby
     affiliation: Community College of Baltimore County
