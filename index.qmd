@@ -1,8 +1,8 @@
 ---
 title: art
 authors:
-  - name: Norah Jones
-    affiliation: The University
+  - name: De'Yona Willoughby
+    affiliation: Community College of Baltimore County
     roles: writing
     corresponding: true
 bibliography: references.bib
