@@ -1,5 +1,5 @@
 ---
-title: Research Article
+title: Research Article Assignment
 authors:
   - name: De'Yona Willoughby
     affiliation: Community College of Baltimore County
